@@ -1,0 +1,4 @@
+<meta>
+	<info author="Drogon" name="hud" version="0.1" type="script" />
+	<script type="client" src="hud.lua" />
+</meta>
